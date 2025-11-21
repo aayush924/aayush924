@@ -1,6 +1,6 @@
 [![MasterHead](https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2020/06/22210327/BE-Computer-Science.png)](https://aayush924.io)
 <h1 align="center">Hi 👋, I'm Aayush Parikh</h1>
-<h3 align="center">A passionate frontend developer and an ML Engineer.</h3>
+<h3 align="center">A software developer and an AI/ML Engineer.</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
 
